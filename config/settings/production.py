@@ -44,7 +44,7 @@ CELERY_RESULT_BACKEND = REDIS_URL
 # CORS
 CORS_ALLOWED_ORIGINS = os.environ.get(
     'CORS_ALLOWED_ORIGINS',
-    'https://ai-chatbot-frontend.vercel.app'
+    'https://ai-chatbot-frontend-ry39.vercel.app'
 ).split(',')
 
 CORS_ALLOW_ALL_ORIGINS = False
