@@ -28,7 +28,7 @@ flower==2.0.1
 
 # Utils
 python-decouple==3.8
-Pillow==10.3.0
+Pillow==10.4.0
 requests==2.32.2
 python-dateutil==2.9.0
 
